@@ -1,7 +1,7 @@
 **Project Summary: Customer Happiness Prediction**
 
 **Background:**
-Our startup in the logistics domain aims to enhance customer satisfaction. We analyzed survey data to predict customer happiness and identify key factors.
+A startup in the logistics domain aims to enhance customer satisfaction. They have analyzed the survey data to predict customer happiness and identify key factors.
 
 **Objective:**
 Predict customer happiness based on survey responses and recommend improvements.
