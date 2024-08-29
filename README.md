@@ -1,6 +1,6 @@
 **Project Summary: Customer Happiness Prediction**
 
-**Project Overview:**
+**Overview:**
 This project aims to predict customer happiness based on survey responses collected from a cohort of customers. The survey includes questions about various aspects of the customer's experience, such as delivery times, order accuracy, pricing, courier service, and ease of use of the ordering app. The goal is to build a predictive model that can classify whether a customer is happy or unhappy based on their survey responses. Achieving this goal will enable the company to take proactive measures to enhance customer satisfaction and improve overall operations.
 
 **Objective:**
